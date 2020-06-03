@@ -14,5 +14,5 @@ int main(){
     cin>> x;
     cout <<"Inputkan X : " ;
     cin>> y;
-    cout << kalikan(&x, &y) <<endl;
+    cout << "Hasil : " <<kalikan(&x, &y) <<endl;
 }
